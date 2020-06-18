@@ -10,7 +10,8 @@ function App() {
  {/* <Diner></Diner> */ }
  <Diner dishname="Biryani" sweetdish="kheer" />
  <p>
- <img src="../images/B.jpg" alt="Biryani" align="middle"/>
+ <img src="../images/B.jpg" alt="Biryani" align="middle
+"/>
  <br></br>
  <price> <b>200 PKR/ Only</b></price>
  <br></br>
