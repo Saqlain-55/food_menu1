@@ -1,5 +1,5 @@
 .App {
-  text-align:center ;
+  text-align:left ;
  
 }
 
@@ -19,8 +19,8 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: normal;
-  justify-content: absolute;
+  align-items: center;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: rgb(53, 44, 44);
 }
