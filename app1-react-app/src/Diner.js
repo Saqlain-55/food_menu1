@@ -7,7 +7,7 @@ function App(props){
        
            <b>Today we are serving {props.dishname}</b>
            <br></br>
-           <saqlain saleem></saqlain>
+           
          
            
            
