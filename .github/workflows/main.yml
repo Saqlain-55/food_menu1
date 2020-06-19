@@ -33,4 +33,4 @@ jobs:
     - name: installing surge
       run: npm install -g surge
     - name: deploying on surge
-      run: surge ./ build http://food_corner.surge.sh/ --token ${{secrets.SURGE_TOKEN3}}
+      run: surge ./ build foddies.surge.sh / --token ${{secrets.SURGE_TOKEN3}}
