@@ -12,6 +12,7 @@ function App() {
  <p>
  <img src="../images/B.jpg" alt="Biryani" align="center
 "/>
+<table width="10" border="50" bg-color="lighht gray"/>
  <br></br>
  <price> <b>200 PKR/ Only</b></price>
  <br></br>
