@@ -4,7 +4,7 @@ import Diner from './Diner';
 function App() {
   return (
     <div className="App">
-        <h1> Wellcome to Food Menue</h1>
+        <h1> Wellcome to Foods Menue</h1>
 
 <table width="1300" border="20" bg-color="lighht gray"/>
  {/* <Diner></Diner> */ }
@@ -12,7 +12,7 @@ function App() {
  <p>
  <img src="../images/B.jpg" alt="Biryani" align="center
 "/>
-<table width="10" border="50" bg-color="lighht gray"/>
+<table width="100" border="50" bg-color="lighht gray"/>
  <br></br>
  <price> <b>200 PKR/ Only</b></price>
  <br></br>
