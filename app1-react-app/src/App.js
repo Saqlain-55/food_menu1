@@ -4,7 +4,7 @@ import Diner from './Diner';
 function App() {
   return (
     <div className="App">
-        <h1> Wellcome to Foods Menue</h1>
+        <h1> Wellcome to Foodies Menue</h1>
 
 <table width="1300" border="20" bg-color="lighht gray"/>
  {/* <Diner></Diner> */ }
