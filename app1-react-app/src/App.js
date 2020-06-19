@@ -16,9 +16,12 @@ function App() {
  <br></br>
  <price> <b>200 PKR/ Only</b></price>
  <br></br>
- <a href="https://www.foodpanda.pk/restaurant/u5ma/karachi-biryani-center-phase-3-chowk#"><button>Order Now</button><table width="100" border="50" bg-color="lighht gray"/></a>
+ <a href="https://www.foodpanda.pk/restaurant/u5ma/karachi-biryani-center-phase-3-chowk#"><button>Order Now</button></a>
  
  
+  </p>
+  <p>
+  <table width="500" border="3" bg-color="lighht gray" align=""/>
   </p>
 
  <table width="1300" border="20" bg-color="lighht gray"/>
