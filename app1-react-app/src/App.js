@@ -12,12 +12,12 @@ function App() {
  <p>
  <img src="../images/B.jpg" alt="Biryani" align="center
 "/>
-<table width="100" border="50" bg-color="lighht gray"/>
+
  <br></br>
  <price> <b>200 PKR/ Only</b></price>
  <br></br>
- <a href="https://www.foodpanda.pk/restaurant/u5ma/karachi-biryani-center-phase-3-chowk#"><button>Order Now</button></a>
-
+ <a href="https://www.foodpanda.pk/restaurant/u5ma/karachi-biryani-center-phase-3-chowk#"><button>Order Now</button><table width="100" border="50" bg-color="lighht gray"/></a>
+ 
  
   </p>
 
