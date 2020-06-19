@@ -10,9 +10,11 @@ function App() {
  {/* <Diner></Diner> */ }
  <Diner dishname="Biryani" sweetdish="kheer" />
  <p>
+ <img src="../images/B.jpg" alt="Biryani" align="center
+"/>
 
-
- <br></br>
+ <br> <img src="../images/B.jpg" alt="Biryani" align="center
+"/></br>
  <price> <b>200 PKR/ Only</b></price>
  <br></br>
  <a href="https://www.foodpanda.pk/restaurant/u5ma/karachi-biryani-center-phase-3-chowk#"><button>Order Now</button></a>
